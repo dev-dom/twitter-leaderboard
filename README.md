@@ -7,7 +7,7 @@ Sample Django App that creates a leaderboard for a team's engagement and activit
 
 As always, when developing on top of the Twitter platform, you must abide by the [Developer Agreement & Policy](https://dev.twitter.com/overview/terms/agreement-and-policy). 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/twitterdev/twitter-leaderboard)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dev-dom/twitter-leaderboard)
 
 Requirements
 ============
@@ -83,7 +83,7 @@ Deploying to Heroku is even easier.
 	
 Then log in via the Admin console and update your initial Twitter login user accordingly. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/twitterdev/twitter-leaderboard)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dev-dom/twitter-leaderboard)
 
 
 NOTES
