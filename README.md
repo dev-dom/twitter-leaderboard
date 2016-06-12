@@ -88,7 +88,9 @@ Then log in via the Admin console and update your initial Twitter login user acc
 
 NOTES
 ============
-If you receive a 401 at login/twitter it is most likely caused by a datetime discrepancy between the server making the requst and the Twitter server.
+If you receive a 401 at login/twitter, please uncheck "Enable Callback Locking" from the app setting at apps.twitter.com
+
+If you still receive a 401 at login/twitter it is most likely caused by a datetime discrepancy between the server making the requst and the Twitter server.
 
 Use NTP to sync time on your server to compensate for the dift.
 
